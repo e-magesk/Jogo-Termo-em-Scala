@@ -313,10 +313,10 @@ object Termo {
                 println("2) Termo com duas palavras (Já jogado)")
             }
             if(opcoes.contains(3)){
-                println("3) Termo com três palavras")
+                println("3) Termo com quatro palavras")
             }
             else{
-                println("3) Termo com três palavras (Já jogado)")
+                println("3) Termo com quatro palavras (Já jogado)")
             }
             println("4) Sair")
             println("----------------------------------------------------")
