@@ -6,6 +6,9 @@ import play.api.libs.json._
 import scala.util.Random
 import Termo.termoUmaPalavra
 import Termo.termoDuasPalavras
+import Termo.termoQuatroPalavras
+import Termo.inicializacaoTermo
+import Termo.opcoesJogarTermo
 
 object main {
 
@@ -26,7 +29,33 @@ object main {
         val random = new Random   
         val palavrasEscolhidas = palavrasCom5Letras(random.nextInt(palavrasCom5Letras.length))
 
-        termoDuasPalavras("cuspe", "verme")
+        var opcoes : List[Int] = List(1, 2, 3)
+
+        inicializacaoTermo()
+        
+        while (opcoes.isEmpty == false) {
+            var opcaoEscolhida = opcoesJogarTermo(opcoes)
+            
+            if(opcaoEscolhida == 1){
+                termoUmaPalavra("merda")
+                opcoes = opcoes.filter(_ != 1)
+            }else if(opcaoEscolhida == 2){
+                termoDuasPalavras("mente", "areia")
+                opcoes = opcoes.filter(_ != 2)
+            }else if(opcaoEscolhida == 3){
+                termoQuatroPalavras("mente", "areia", "merda", "monte")
+                opcoes = opcoes.filter(_ != 3)
+            } else if(opcaoEscolhida == 4){
+                println("\nObrigado por jogar! Até mais!\n")
+                System.exit(0)
+            }
+        }
+
+        Thread.sleep(2000) 
+
+        println("Suas partidas terminaram por hoje!")
+        println("Obrigado por jogar! Até mais!\n")
+
     }
 }
 
