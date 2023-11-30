@@ -407,3 +407,446 @@ nov. 29, 2023 12:02:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancell
 ADVERTÊNCIA: Unmatched cancel notification for request id 1918
 2023.11.29 00:03:59 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
 2023.11.29 00:04:59 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 00:16:04 INFO  Shutting down server[0m
+2023.11.29 00:16:04 INFO  shutting down Metals[0m
+2023.11.29 21:03:05 INFO  Started: Metals version 1.1.0 in folders '/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala' for client Visual Studio Code 1.80.0.[0m
+2023.11.29 21:03:10 WARN  Build server is not auto-connectable.[0m
+2023.11.29 21:04:48 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 21:05:00 INFO  no build target found for /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala. Using presentation compiler with project's scala-library version: 3.3.1[0m
+nov. 29, 2023 9:05:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 12
+2023.11.29 21:05:09 INFO  time: code lens generation in 19s[0m
+2023.11.29 21:05:09 INFO  time: code lens generation in 8.07s[0m
+2023.11.29 21:14:03 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 21:16:40 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 21:16:47 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+nov. 29, 2023 9:18:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 132
+2023.11.29 21:23:14 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 21:23:26 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 21:23:37 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 21:23:44 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:23:45 WARN  Could not find semantic tokens for: file:///home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:23:47 WARN  Could not find semantic tokens for: file:///home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:23:48 WARN  Could not find semantic tokens for: file:///home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:23:48 WARN  Could not find semantic tokens for: file:///home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:23:52 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:24:08 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 21:24:12 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:24:16 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:24:24 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:24:33 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:24:39 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:24:43 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:24:56 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:25:00 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:25:09 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:25:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 513
+2023.11.29 21:25:30 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:25:33 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:25:52 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:25:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 599
+2023.11.29 21:25:55 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:26:26 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:26:30 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:26:34 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:26:50 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:26:59 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:27:33 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:27:35 ERROR Failed to tokenize input for semantic tokens for /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: unclosed string literal
+        var listaPalavras = List("teste", "teste", "teste", "
+                                                            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+[0m
+2023.11.29 21:27:36 ERROR Failed to tokenize input for semantic tokens for /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: unclosed string literal
+        var listaPalavras = List("teste", "tes
+                                          ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+[0m
+2023.11.29 21:27:35 ERROR Failed to tokenize input for semantic tokens for /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: unclosed string literal
+        var listaPalavras = List("te
+                                 ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+[0m
+2023.11.29 21:27:41 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:27:54 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:28:01 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:28:22 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:28:27 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:28:32 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:28:41 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:29:44 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:29:55 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:30:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 1074
+2023.11.29 21:30:37 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:31:10 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:31:17 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:31:25 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:31:33 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:31:41 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:31:45 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:31:51 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:32:12 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:32:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 1294
+2023.11.29 21:32:15 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:32:43 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:33:08 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:33:19 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:33:24 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:33:42 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:33:45 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:34:04 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:34:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 1488
+2023.11.29 21:34:19 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:34:21 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:34:25 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:34:25 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:34:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 1538
+nov. 29, 2023 9:34:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 1546
+2023.11.29 21:34:48 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:34:50 ERROR Failed to tokenize input for semantic tokens for /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala
+scala.meta.tokenizers.TokenizeException: <input>:49: error: Invalid literal number
+            for (j <- 2i to 5){
+                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+[0m
+2023.11.29 21:34:53 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:34:56 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:35:03 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:35:08 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:35:14 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:35:14 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:35:19 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:35:23 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:36:37 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 21:36:46 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 21:36:50 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 21:37:12 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 21:37:31 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:37:58 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 21:38:01 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m
+2023.11.29 21:38:21 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:38:25 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:38:25 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:40:06 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:40:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 1946
+2023.11.29 21:41:05 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:41:09 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:41:16 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:41:19 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:41:21 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:41:23 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:41:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 2065
+2023.11.29 21:41:32 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:41:39 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:42:00 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:42:03 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:42:10 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:42:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 2149
+nov. 29, 2023 9:42:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 2161
+nov. 29, 2023 9:42:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 2164
+2023.11.29 21:42:54 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:43:03 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:43:08 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:43:17 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:43:26 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:43:27 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:43:51 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:43:54 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:44:02 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:44:16 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:44:22 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:44:24 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:44:48 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:45:32 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:45:35 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:45:44 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:45:46 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:45:50 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:45:58 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:46:03 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:46:12 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:46:15 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:46:18 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:47:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 2741
+2023.11.29 21:47:21 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:47:32 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:47:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 2786
+2023.11.29 21:47:38 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:47:42 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:47:47 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:47:53 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:47:57 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:48:05 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:48:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 2940
+2023.11.29 21:48:17 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:48:22 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:49:15 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:49:15 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:49:38 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:49:53 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:50:11 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:51:04 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:51:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 3074
+2023.11.29 21:51:07 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:51:10 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:53:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 3108
+2023.11.29 21:53:45 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 9:53:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 3156
+2023.11.29 21:53:51 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:54:06 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:54:58 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:55:00 ERROR Failed to tokenize input for semantic tokens for /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala
+scala.meta.tokenizers.TokenizeException: <input>:15: error: unclosed string literal
+        print(palavra + ")\t
+                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+[0m
+2023.11.29 21:55:12 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:56:05 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:56:30 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:56:35 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:56:56 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:56:59 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:57:01 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:57:20 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:57:24 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:57:25 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:57:34 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:58:52 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:58:54 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:58:58 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:59:45 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:59:45 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 21:59:45 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:00:26 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:01:46 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:02:09 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:02:09 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:02:44 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 10:02:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 3781
+2023.11.29 22:03:00 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:03:53 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:04:02 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:04:23 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:04:31 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:04:41 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:04:46 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:07:19 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:07:23 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:07:37 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:07:45 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:07:51 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:07:54 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:08:12 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:08:19 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:08:22 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:08:32 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:08:50 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+nov. 29, 2023 10:09:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 4221
+nov. 29, 2023 10:09:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 4225
+nov. 29, 2023 10:09:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 4253
+2023.11.29 22:09:25 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:09:27 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:09:30 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:09:30 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:10:06 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:10:06 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:10:28 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:10:53 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:11:04 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:11:11 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:11:39 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:11:46 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:11:47 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:11:47 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:11:46 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:12:00 ERROR Failed to tokenize input for semantic tokens for /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala
+scala.meta.tokenizers.TokenizeException: <input>:83: error: invalid escape character
+        println("\----------------------------------------------------\n")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.invalidEscape(LegacyScanner.scala:744)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChar(LegacyScanner.scala:732)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChars(LegacyScanner.scala:753)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:546)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+[0m
+2023.11.29 22:12:03 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:12:07 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:12:10 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:12:11 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:12:11 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:13:17 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:13:22 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:13:53 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:13:59 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.29 22:14:18 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/main.scala[0m

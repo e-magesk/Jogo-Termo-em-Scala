@@ -1,17 +1,2 @@
-[0m[[0m[31merror[0m] [0m[0merror while loading package, class file '/home/eduarda/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-json_3/2.10.3/play-json_3-2.10.3.jar(play/api/libs/json/package.class)' is broken[0m
-[0m[[0m[31merror[0m] [0m[0m(class scala.tools.tasty.UnpickleException/TASTy signature has wrong version.[0m
-[0m[[0m[31merror[0m] [0m[0m expected: {majorVersion: 28, minorVersion: 0}[0m
-[0m[[0m[31merror[0m] [0m[0m found   : {majorVersion: 28, minorVersion: 3}[0m
-[0m[[0m[31merror[0m] [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0mThis TASTy file was produced by a more recent, forwards incompatible release.[0m
-[0m[[0m[31merror[0m] [0m[0mTo read this TASTy file, please upgrade your tooling.[0m
-[0m[[0m[31merror[0m] [0m[0mThe TASTy file was produced by Scala 3.3.1.)[0m
-[0m[[0m[31merror[0m] [0m[0merror while loading Json, class file '/home/eduarda/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-json_3/2.10.3/play-json_3-2.10.3.jar(play/api/libs/json/Json.class)' is broken[0m
-[0m[[0m[31merror[0m] [0m[0m(class scala.tools.tasty.UnpickleException/TASTy signature has wrong version.[0m
-[0m[[0m[31merror[0m] [0m[0m expected: {majorVersion: 28, minorVersion: 0}[0m
-[0m[[0m[31merror[0m] [0m[0m found   : {majorVersion: 28, minorVersion: 3}[0m
-[0m[[0m[31merror[0m] [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0mThis TASTy file was produced by a more recent, forwards incompatible release.[0m
-[0m[[0m[31merror[0m] [0m[0mTo read this TASTy file, please upgrade your tooling.[0m
-[0m[[0m[31merror[0m] [0m[0mThe TASTy file was produced by Scala 3.3.1.)[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[33mwarn[0m] [0m[0m3 deprecations (since 2.13.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
