@@ -5,6 +5,7 @@ import java.nio.file.Paths
 import play.api.libs.json._
 import scala.util.Random
 import Termo.termoUmaPalavra
+import Termo.termoDuasPalavras
 
 object main {
 
@@ -25,7 +26,7 @@ object main {
         val random = new Random   
         val palavrasEscolhidas = palavrasCom5Letras(random.nextInt(palavrasCom5Letras.length))
 
-        termoUmaPalavra("cuspe")
+        termoDuasPalavras("cuspe", "verme")
     }
 }
 

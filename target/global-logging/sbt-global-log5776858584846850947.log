@@ -1,8 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(3ba35df9-312a-4a74-9db3-f3fc55be8942), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/target/scala-2.13/classes ...[0m
-[0m[[0m[33mwarn[0m] [0m[0m3 deprecations (since 2.13.0); re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed 29 de nov. de 2023 22:13:25[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
