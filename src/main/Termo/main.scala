@@ -32,31 +32,40 @@ object main {
         var opcoes : List[Int] = List(1, 2, 3)
 
         inicializacaoTermo()
-        
+
+// ------------------------------------------- Pega palavra aleatoria
+        var vetorPalavras = Vector()
+        for( i <- 0 to 3)
+        {
+            val a = Vector(1,2,3)
+            val b = a :+ 4
+
+
+            var indicePalavra = random.nextInt(palavrasCom5Letras.length)
+            var aux = vetorPalavras :+ palavrasCom5Letras.apply(indicePalavra)
+            vetorPalavras = aux
+            // println(palavrasCom5Letras.apply(indicePalavra))
+        }
+        println(vetorPalavras)
+
+// ------------------------------------------- Pega palavra aleatoria
+
         while (opcoes.isEmpty == false) {
             var opcaoEscolhida = opcoesJogarTermo(opcoes)
-            
-            if(opcaoEscolhida == 1){
-                termoUmaPalavra("freio")
-                opcoes = opcoes.filter(_ != 1)
-            }else if(opcaoEscolhida == 2){
-                termoDuasPalavras("mente", "areia")
-                opcoes = opcoes.filter(_ != 2)
-            }else if(opcaoEscolhida == 3){
-                termoQuatroPalavras("mente", "areia", "aviao", "monte")
-                opcoes = opcoes.filter(_ != 3)
-            } else if(opcaoEscolhida == 4){
-                println("\nObrigado por jogar! Até mais!\n")
-                return
+
+            opcaoEscolhida match {
+            case 1 => {termoUmaPalavra("freio"); opcoes = opcoes.filter(_ != 1)}
+            case 2 => {termoDuasPalavras("mente", "areia"); opcoes = opcoes.filter(_ != 2)}
+            case 3 => {termoQuatroPalavras("mente", "areia", "aviao", "monte"); opcoes = opcoes.filter(_ != 3)}
+            case 4 => {println("\nObrigado por jogar! Até mais!\n"); return}
             }
         }
 
         Thread.sleep(2000) 
 
-        println("Suas partidas terminaram por hoje!")
-        println("Obrigado por jogar! Até mais!\n")
+        // println("Suas partidas terminaram por hoje!")
+        // println("Obrigado por jogar! Até mais!\n")
 
     }
 }
-
 // https://github.com/ThiagoNelsi/dicio-api

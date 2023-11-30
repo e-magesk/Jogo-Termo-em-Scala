@@ -4,6 +4,7 @@ object Termo {
 
     val GREEN = "\u001B[32m"
     val YELLOW = "\u001B[33m"
+    val RED = "\u001B[31m"
     val RESET = "\u001B[0m"
 
     def formataStringSaida(plv : String, rpt : String): String = {
@@ -282,9 +283,11 @@ object Termo {
 
     def inicializacaoTermo() : Unit = {
 
-        println("--------------------------------------------------------")
-        println("              Bem vindo ao jogo TERMO!                  ")
-        println("--------------------------------------------------------\n")
+        println(RED + "     _____  _____ ____  _    _  ____ " + RESET)
+        println(GREEN + "    /__ __\\/  __//  __\\/ \\__/ |/  _ \\" + RESET)
+        println(YELLOW + "      / \\  |  \\  |  \\/|| |\\/| || / \\ |" + RESET)
+        println("      | |  |  /_ |    /| |  | || \\_/ | " + RESET)
+        println(RED + "      \\_/  \\____\\\\_/\\_\\\\_/  \\_|\\____/\n\n" + RESET)
 
         println("Descubra as palavras certas. Depois de cada tentativa, as peças mostram o quão perto você está da solução. Por exemplo:\n")
         println(GREEN + "T" + RESET + " " + YELLOW + "E" + RESET + " " + "R" + " " + "M" + " " + "O\n")
