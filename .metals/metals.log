@@ -2203,3 +2203,19 @@ scala.meta.tokenizers.TokenizeException: <input>:84: error: Non-zero integral va
 2023.11.30 00:56:40 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
 2023.11.30 00:56:40 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
 2023.11.30 00:56:40 WARN  no build target for: /home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/src/main/Termo/termo.scala[0m
+2023.11.30 00:57:19 INFO  Shutting down server[0m
+2023.11.30 00:57:19 INFO  shutting down Metals[0m
+2023.11.30 00:57:20 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+[0m
+2023.11.30 00:57:19 INFO  Exiting server[0m

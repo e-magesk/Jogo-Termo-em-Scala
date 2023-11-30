@@ -37,17 +37,17 @@ object main {
             var opcaoEscolhida = opcoesJogarTermo(opcoes)
             
             if(opcaoEscolhida == 1){
-                termoUmaPalavra("merda")
+                termoUmaPalavra("freio")
                 opcoes = opcoes.filter(_ != 1)
             }else if(opcaoEscolhida == 2){
                 termoDuasPalavras("mente", "areia")
                 opcoes = opcoes.filter(_ != 2)
             }else if(opcaoEscolhida == 3){
-                termoQuatroPalavras("mente", "areia", "merda", "monte")
+                termoQuatroPalavras("mente", "areia", "aviao", "monte")
                 opcoes = opcoes.filter(_ != 3)
             } else if(opcaoEscolhida == 4){
                 println("\nObrigado por jogar! Até mais!\n")
-                System.exit(0)
+                return
             }
         }
 
