@@ -31,37 +31,37 @@ object main {
 
         var opcoes : List[Int] = List(1, 2, 3)
 
-// ------------------------------------------- Pega palavra aleatoria
-        var listaIndices : List[Int] = List(random.nextInt(palavrasCom5Letras.length),
-                                            random.nextInt(palavrasCom5Letras.length),
-                                            random.nextInt(palavrasCom5Letras.length),
-                                            random.nextInt(palavrasCom5Letras.length))
-        var listaPalavras : List[String] = List(palavrasCom5Letras.apply(listaIndices.apply(0)),
-                                                palavrasCom5Letras.apply(listaIndices.apply(1)),
-                                                palavrasCom5Letras.apply(listaIndices.apply(2)),
-                                                palavrasCom5Letras.apply(listaIndices.apply(3)))
+        var listaIndices : List[Int] = List()
+        var listaPalavras : List[String] = List()
+
+        // O operador :: gera uma nova lista com o elemento à esquerda do operador adicionado na lista antiga e atribui essa nova lista à variável à esquerda do =.
+        for (i <- 0 to 3) {
+            listaIndices = random.nextInt(palavrasCom5Letras.length) :: listaIndices
+        }
+
+        for (i <- 0 to 3) {
+            listaPalavras = palavrasCom5Letras.apply(listaIndices.apply(i)) :: listaPalavras
+        }
         
         println(listaPalavras)
 
-// ------------------------------------------- Pega palavra aleatoria
+        // inicializacaoTermo()
 
-        inicializacaoTermo()
+        // while (opcoes.isEmpty == false) {
+        //     var opcaoEscolhida = opcoesJogarTermo(opcoes)
 
-        while (opcoes.isEmpty == false) {
-            var opcaoEscolhida = opcoesJogarTermo(opcoes)
+        //     opcaoEscolhida match {
+        //     case 1 => {termoUmaPalavra(listaPalavras.apply(0)); opcoes = opcoes.filter(_ != 1)}
+        //     case 2 => {termoDuasPalavras(listaPalavras.apply(0), listaPalavras.apply(1)); opcoes = opcoes.filter(_ != 2)}
+        //     case 3 => {termoQuatroPalavras(listaPalavras.apply(0), listaPalavras.apply(1), listaPalavras.apply(2), listaPalavras.apply(3)); opcoes = opcoes.filter(_ != 3)}
+        //     case 4 => {println("\nObrigado por jogar! Até mais!\n"); return}
+        //     }
+        // }
 
-            opcaoEscolhida match {
-            case 1 => {termoUmaPalavra(listaPalavras.apply(0)); opcoes = opcoes.filter(_ != 1)}
-            case 2 => {termoDuasPalavras(listaPalavras.apply(0), listaPalavras.apply(1)); opcoes = opcoes.filter(_ != 2)}
-            case 3 => {termoQuatroPalavras(listaPalavras.apply(0), listaPalavras.apply(1), listaPalavras.apply(2), listaPalavras.apply(3)); opcoes = opcoes.filter(_ != 3)}
-            case 4 => {println("\nObrigado por jogar! Até mais!\n"); return}
-            }
-        }
+        // Thread.sleep(2000) 
 
-        Thread.sleep(2000) 
-
-        println("Suas partidas terminaram por hoje!")
-        println("Obrigado por jogar! Até mais!\n")
+        // println("Suas partidas terminaram por hoje!")
+        // println("Obrigado por jogar! Até mais!\n")
 
     }
 }

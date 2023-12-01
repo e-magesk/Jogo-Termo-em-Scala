@@ -1,13 +1,1 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/vnpereira/Documents/scala/Jogo-Termo-em-Scala/target/scala-2.13/termo_2.13-1.0.jar ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Termo[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/vnpereira/Documents/scala/Jogo-Termo-em-Scala/target/scala-2.13/classes/Termo[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Termo/main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/vnpereira/Documents/scala/Jogo-Termo-em-Scala/target/scala-2.13/classes/Termo/main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Termo/main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/vnpereira/Documents/scala/Jogo-Termo-em-Scala/target/scala-2.13/classes/Termo/main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Termo/Termo.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/vnpereira/Documents/scala/Jogo-Termo-em-Scala/target/scala-2.13/classes/Termo/Termo.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Termo/Termo$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/vnpereira/Documents/scala/Jogo-Termo-em-Scala/target/scala-2.13/classes/Termo/Termo$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /home/vinny/Documentos/Jogo-Termo-em-Scala/target/scala-2.13/termo_2.13-1.0.jar[0m
