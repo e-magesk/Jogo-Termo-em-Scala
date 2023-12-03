@@ -17,17 +17,19 @@ object main {
         val diretorioAtual = Paths.get(".").toAbsolutePath.toString
 
         // // Caminho para o arquivo de palavras em português
-        val caminhoArquivo = diretorioAtual + "/src/files/br-sem-acentos.txt"
+        val caminhoArquivo = diretorioAtual + "/src/files/palavras5letras.txt"
 
         // // // Lê as linhas do arquivo
-        val linhas = Source.fromFile(caminhoArquivo, "ASCII").getLines().toList
+        val linhas = Source.fromFile(caminhoArquivo, "UTF-8").getLines().toList
 
         // // // Filtra as palavras com 5 letras
-        val palavrasCom5Letras = linhas.filter(palavra => palavra.length == 5)
+        val palavrasSemAcento = linhas.map(removerAcentos).filter(_.length == 5)
 
         // Crie uma instância de Random
         val random = new Random   
-        val palavrasEscolhidas = palavrasCom5Letras(random.nextInt(palavrasCom5Letras.length))
+        val palavrasEscolhidasT1 = random.shuffle(palavrasSemAcento).take(1)
+        val palavrasEscolhidasT2 = random.shuffle(palavrasSemAcento).take(2)
+        val palavrasEscolhidasT4 = random.shuffle(palavrasSemAcento).take(4)
 
         var opcoes : List[Int] = List(1, 2, 3)
 
@@ -37,13 +39,13 @@ object main {
             var opcaoEscolhida = opcoesJogarTermo(opcoes)
             
             if(opcaoEscolhida == 1){
-                termoUmaPalavra("freio")
+                termoUmaPalavra(palavrasEscolhidasT1(0))
                 opcoes = opcoes.filter(_ != 1)
             }else if(opcaoEscolhida == 2){
-                termoDuasPalavras("mente", "areia")
+                termoDuasPalavras(palavrasEscolhidasT2(0), palavrasEscolhidasT2(1))
                 opcoes = opcoes.filter(_ != 2)
             }else if(opcaoEscolhida == 3){
-                termoQuatroPalavras("mente", "areia", "aviao", "monte")
+                termoQuatroPalavras(palavrasEscolhidasT4(0), palavrasEscolhidasT4(1), palavrasEscolhidasT4(2), palavrasEscolhidasT4(3))
                 opcoes = opcoes.filter(_ != 3)
             } else if(opcaoEscolhida == 4){
                 println("\nObrigado por jogar! Até mais!\n")
@@ -57,6 +59,23 @@ object main {
         println("Obrigado por jogar! Até mais!\n")
 
     }
+
+    // Função para remover acentos de uma palavra
+    // *Faz um extra de substituir ç por c
+    def removerAcentos(palavra: String): String = {
+        val comAcentos = "áéíóúâêîôûãõç"
+        val semAcentos = "aeiouaeiouaoc"
+
+        // Substitui os caracteres acentuados pelos correspondentes sem acentos
+        val novaPalavra = palavra.map { c =>
+            val index = comAcentos.indexOf(c)
+            if (index != -1) semAcentos.charAt(index)
+            else c
+        }.mkString
+
+        return novaPalavra
+    }
+
 }
 
 // https://github.com/ThiagoNelsi/dicio-api
