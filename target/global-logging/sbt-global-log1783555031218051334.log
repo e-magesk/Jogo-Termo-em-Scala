@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(s, Some(f10e91f5-b06d-4099-8b6a-74361f2b3987), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: s[0m
+[0m[[0m[31merror[0m] [0m[0mExpected 'sbtRebootNetwork'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected 'show'[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid project ID: s[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: s[0m
+[0m[[0m[31merror[0m] [0m[0mExpected 'sbtPromptChannel'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected 'sbtRebootImpl'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected 'sbtReportResult'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected 'sbtMapExec'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected 'sbtCompleteExec'[0m
+[0m[[0m[31merror[0m] [0m[0ms[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

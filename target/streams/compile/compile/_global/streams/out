@@ -1,7 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/vinny/Documentos/Jogo-Termo-em-Scala/src/main/Termo/main.scala:46:13: only traits and abstract classes can have declared but undefined members[0m
-[0m[[0m[31merror[0m] [0m[0m        var listaIndices : List[Int][0m
-[0m[[0m[31merror[0m] [0m[0m            ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/vinny/Documentos/Jogo-Termo-em-Scala/src/main/Termo/main.scala:47:13: only traits and abstract classes can have declared but undefined members[0m
-[0m[[0m[31merror[0m] [0m[0m        var listaPalavras : List[String][0m
-[0m[[0m[31merror[0m] [0m[0m            ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/vinny/Documentos/Jogo-Termo-em-Scala/src/main/Termo/main.scala:51:27: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m            listaPalavras = escolhePalavras(qntdPalavrasCom5Letras) :: listaPalavras[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
