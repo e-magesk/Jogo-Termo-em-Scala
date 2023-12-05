@@ -41,6 +41,7 @@ object Termo {
 
         var listaPalavras : List[String]= List();
         var inputString = ""
+        var input = ""
 
         for (i <- 1 to chances) {
 
@@ -53,10 +54,10 @@ object Termo {
                 print("Qual a palavra? ")
                 
                 // Lê a string do terminal
-                inputString = scala.io.StdIn.readLine()
+                input = scala.io.StdIn.readLine()
                 println("----------------------------------------------------\n")
     
-                if (inputString.length != 5 ) {
+                if (input.length != 5 ) {
                     println("A palavra deve ter 5 letras! Tente novamente.\n")
                 }
                 else{
@@ -64,6 +65,7 @@ object Termo {
                 }
 
             }
+            inputString = input.toLowerCase()
 
             listaPalavras = listaPalavras :+ inputString
 
@@ -100,6 +102,7 @@ object Termo {
         var listaPalavras1 : List[String]= List();
         var listaPalavras2 : List[String]= List();
         var inputString = ""
+        var input = ""
         var palavrasAcertadas : Array[Boolean] = Array(false, false)
 
         for (i <- 1 to chances) {
@@ -113,16 +116,18 @@ object Termo {
                 print("Qual a palavra? ")
                 
                 // Lê a string do terminal
-                inputString = scala.io.StdIn.readLine()
+                input = scala.io.StdIn.readLine()
                 println("----------------------------------------------------\n")
     
-                if (inputString.length != 5 ) {
+                if (input.length != 5 ) {
                     println("A palavra deve ter 5 letras! Tente novamente.\n")
                 }
                 else{
                     palavraValida = true
                 }
             }
+
+            inputString = input.toLowerCase()
 
             if(palavrasAcertadas(0) == false){
                 listaPalavras1 = listaPalavras1 :+ inputString
@@ -180,6 +185,7 @@ object Termo {
         var listaPalavras3 : List[String]= List();
         var listaPalavras4 : List[String]= List();
         var inputString = ""
+        var input = ""
         var palavrasAcertadas : Array[Boolean] = Array(false, false, false, false)
 
         for (i <- 1 to chances) {
@@ -193,16 +199,17 @@ object Termo {
                 print("Qual a palavra? ")
                 
                 // Lê a string do terminal
-                inputString = scala.io.StdIn.readLine()
+                input = scala.io.StdIn.readLine()
                 println("----------------------------------------------------------------------\n")
     
-                if (inputString.length != 5 ) {
+                if (input.length != 5 ) {
                     println("A palavra deve ter 5 letras! Tente novamente.\n")
                 }
                 else{
                     palavraValida = true
                 }
             }
+            inputString = input.toLowerCase()
 
             if(palavrasAcertadas(0) == false){
                 listaPalavras1 = listaPalavras1 :+ inputString
