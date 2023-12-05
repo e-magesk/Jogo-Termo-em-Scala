@@ -4,6 +4,7 @@ object Termo {
 
     val GREEN = "\u001B[32m"
     val YELLOW = "\u001B[33m"
+    val RED = "\u001B[31m"
     val RESET = "\u001B[0m"
 
     def formataStringSaida(plv : String, rpt : String): String = {
@@ -26,7 +27,7 @@ object Termo {
                 stringFormatada += YELLOW + caracter + " " + RESET
             }
             else{
-                stringFormatada += caracter + " "
+                stringFormatada += RED + caracter + " " + RESET
             }
         }
 
@@ -40,6 +41,7 @@ object Termo {
 
         var listaPalavras : List[String]= List();
         var inputString = ""
+        var input = ""
 
         for (i <- 1 to chances) {
 
@@ -52,10 +54,10 @@ object Termo {
                 print("Qual a palavra? ")
                 
                 // Lê a string do terminal
-                inputString = scala.io.StdIn.readLine()
+                input = scala.io.StdIn.readLine()
                 println("----------------------------------------------------\n")
     
-                if (inputString.length != 5 ) {
+                if (input.length != 5 ) {
                     println("A palavra deve ter 5 letras! Tente novamente.\n")
                 }
                 else{
@@ -63,6 +65,7 @@ object Termo {
                 }
 
             }
+            inputString = input.toLowerCase()
 
             listaPalavras = listaPalavras :+ inputString
 
@@ -99,6 +102,7 @@ object Termo {
         var listaPalavras1 : List[String]= List();
         var listaPalavras2 : List[String]= List();
         var inputString = ""
+        var input = ""
         var palavrasAcertadas : Array[Boolean] = Array(false, false)
 
         for (i <- 1 to chances) {
@@ -112,16 +116,18 @@ object Termo {
                 print("Qual a palavra? ")
                 
                 // Lê a string do terminal
-                inputString = scala.io.StdIn.readLine()
+                input = scala.io.StdIn.readLine()
                 println("----------------------------------------------------\n")
     
-                if (inputString.length != 5 ) {
+                if (input.length != 5 ) {
                     println("A palavra deve ter 5 letras! Tente novamente.\n")
                 }
                 else{
                     palavraValida = true
                 }
             }
+
+            inputString = input.toLowerCase()
 
             if(palavrasAcertadas(0) == false){
                 listaPalavras1 = listaPalavras1 :+ inputString
@@ -179,6 +185,7 @@ object Termo {
         var listaPalavras3 : List[String]= List();
         var listaPalavras4 : List[String]= List();
         var inputString = ""
+        var input = ""
         var palavrasAcertadas : Array[Boolean] = Array(false, false, false, false)
 
         for (i <- 1 to chances) {
@@ -192,16 +199,17 @@ object Termo {
                 print("Qual a palavra? ")
                 
                 // Lê a string do terminal
-                inputString = scala.io.StdIn.readLine()
+                input = scala.io.StdIn.readLine()
                 println("----------------------------------------------------------------------\n")
     
-                if (inputString.length != 5 ) {
+                if (input.length != 5 ) {
                     println("A palavra deve ter 5 letras! Tente novamente.\n")
                 }
                 else{
                     palavraValida = true
                 }
             }
+            inputString = input.toLowerCase()
 
             if(palavrasAcertadas(0) == false){
                 listaPalavras1 = listaPalavras1 :+ inputString
@@ -282,12 +290,14 @@ object Termo {
 
     def inicializacaoTermo() : Unit = {
 
-        println("--------------------------------------------------------")
-        println("              Bem vindo ao jogo TERMO!                  ")
-        println("--------------------------------------------------------\n")
+        println(RED + "     _____  _____ ____  _    _  ____ " + RESET)
+        println(GREEN + "    /__ __\\/  __//  __\\/ \\__/ |/  _ \\" + RESET)
+        println(YELLOW + "      / \\  |  \\  |  \\/|| |\\/| || / \\ |" + RESET)
+        println("      | |  |  /_ |    /| |  | || \\_/ | " + RESET)
+        println(RED + "      \\_/  \\____\\\\_/\\_\\\\_/  \\_|\\____/\n\n" + RESET)
 
         println("Descubra as palavras certas. Depois de cada tentativa, as peças mostram o quão perto você está da solução. Por exemplo:\n")
-        println(GREEN + "T" + RESET + " " + YELLOW + "E" + RESET + " " + "R" + " " + "M" + " " + "O\n")
+        println(GREEN + "T" + RESET + " " + YELLOW + "E" + RESET + " " + RED + "R" + " " + "M" + " "  + "O\n" + RESET)
         println("A letra \"T\" está na posição correta. A letra \"E\" está na palavra, mas na posição errada. As letras \"R\", \"M\" e \"O\" não estão na palavra.\n")
         println("Para começar a jogar, escolha com quantas palavras deseja começar. Lembre-se, cada modalidade só pode ser jogada uma vez por dia!\n")
     }

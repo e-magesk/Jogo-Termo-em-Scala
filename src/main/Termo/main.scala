@@ -14,6 +14,7 @@ object main {
 
     def main(args: Array[String]): Unit = {
         
+        // Caminho para o diretório atual
         val diretorioAtual = Paths.get(".").toAbsolutePath.toString
 
         // // Caminho para o arquivo de palavras em português
@@ -27,33 +28,23 @@ object main {
 
         // Crie uma instância de Random
         val random = new Random   
-        val palavrasEscolhidasT1 = random.shuffle(palavrasSemAcento).take(1)
-        val palavrasEscolhidasT2 = random.shuffle(palavrasSemAcento).take(2)
-        val palavrasEscolhidasT4 = random.shuffle(palavrasSemAcento).take(4)
+        val palavrasEscolhidas = random.shuffle(palavrasSemAcento).take(7)
 
         var opcoes : List[Int] = List(1, 2, 3)
 
         inicializacaoTermo()
-        
         while (opcoes.isEmpty == false) {
             var opcaoEscolhida = opcoesJogarTermo(opcoes)
-            
-            if(opcaoEscolhida == 1){
-                termoUmaPalavra(palavrasEscolhidasT1(0))
-                opcoes = opcoes.filter(_ != 1)
-            }else if(opcaoEscolhida == 2){
-                termoDuasPalavras(palavrasEscolhidasT2(0), palavrasEscolhidasT2(1))
-                opcoes = opcoes.filter(_ != 2)
-            }else if(opcaoEscolhida == 3){
-                termoQuatroPalavras(palavrasEscolhidasT4(0), palavrasEscolhidasT4(1), palavrasEscolhidasT4(2), palavrasEscolhidasT4(3))
-                opcoes = opcoes.filter(_ != 3)
-            } else if(opcaoEscolhida == 4){
-                println("\nObrigado por jogar! Até mais!\n")
-                return
+
+            opcaoEscolhida match {
+            case 1 => {termoUmaPalavra(palavrasEscolhidas(0)); opcoes = opcoes.filter(_ != 1)}
+            case 2 => {termoDuasPalavras(palavrasEscolhidas(1), palavrasEscolhidas(2)); opcoes = opcoes.filter(_ != 2)}
+            case 3 => {termoQuatroPalavras(palavrasEscolhidas(3), palavrasEscolhidas(4), palavrasEscolhidas(5), palavrasEscolhidas(6)); opcoes = opcoes.filter(_ != 3)}
+            case 4 => {println("\nObrigado por jogar! Até mais!\n"); return}
             }
         }
 
-        Thread.sleep(2000) 
+        Thread.sleep(2000)
 
         println("Suas partidas terminaram por hoje!")
         println("Obrigado por jogar! Até mais!\n")
@@ -77,5 +68,4 @@ object main {
     }
 
 }
-
 // https://github.com/ThiagoNelsi/dicio-api
