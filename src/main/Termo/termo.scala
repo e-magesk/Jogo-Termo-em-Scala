@@ -19,6 +19,9 @@ object Termo {
 
         for (i <- 0 to 4) {
             val caracter = palavra.charAt(i)
+            val qtd = resposta.count(_ == caracter)
+            val qtdSaida = stringFormatada
+
 
             if(caracter == resposta.charAt(i)){
                 stringFormatada += GREEN + caracter + " " + RESET
@@ -29,6 +32,7 @@ object Termo {
             else{
                 stringFormatada += RED + caracter + " " + RESET
             }
+
         }
 
         return stringFormatada
