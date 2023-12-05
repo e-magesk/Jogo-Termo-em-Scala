@@ -1,6 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(a5d4f36f-1bf7-4439-81c2-42c2ab114329), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/vinny/Documentos/Jogo-Termo-em-Scala/target/scala-2.13/classes ...[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 210 s (03:30), completed 2 de dez. de 2023 19:08:41[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
