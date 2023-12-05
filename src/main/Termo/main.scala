@@ -18,7 +18,7 @@ object main {
         val diretorioAtual = Paths.get(".").toAbsolutePath.toString
 
         // // Caminho para o arquivo de palavras em português
-        val caminhoArquivo = diretorioAtual + "/src/files/palavras5letras.txt"
+        val caminhoArquivo = diretorioAtual + "/src/files/palavras.txt"
 
         // // // Lê as linhas do arquivo
         val linhas = Source.fromFile(caminhoArquivo, "UTF-8").getLines().toList
