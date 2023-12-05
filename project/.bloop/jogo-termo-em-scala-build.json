@@ -2,15 +2,15 @@
     "version": "1.4.0",
     "project": {
         "name": "jogo-termo-em-scala-build",
-        "directory": "/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/project",
-        "workspaceDir": "/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/project",
+        "directory": "/home/eduarda/Documents/GitHub/Jogo-Termo-em-Scala/project",
+        "workspaceDir": "/home/eduarda/Documents/GitHub/Jogo-Termo-em-Scala/project",
         "sources": [
-            "/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/project/src/main/scala",
-            "/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/project/src/main/scala-2.12",
-            "/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/project/src/main/scala-2",
-            "/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/project/src/main/java",
-            "/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/project/src/main/scala-sbt-1.0",
-            "/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/project/target/scala-2.12/sbt-1.0/src_managed/main"
+            "/home/eduarda/Documents/GitHub/Jogo-Termo-em-Scala/project/src/main/scala",
+            "/home/eduarda/Documents/GitHub/Jogo-Termo-em-Scala/project/src/main/scala-2.12",
+            "/home/eduarda/Documents/GitHub/Jogo-Termo-em-Scala/project/src/main/scala-2",
+            "/home/eduarda/Documents/GitHub/Jogo-Termo-em-Scala/project/src/main/java",
+            "/home/eduarda/Documents/GitHub/Jogo-Termo-em-Scala/project/src/main/scala-sbt-1.0",
+            "/home/eduarda/Documents/GitHub/Jogo-Termo-em-Scala/project/target/scala-2.12/sbt-1.0/src_managed/main"
         ],
         "dependencies": [
             
@@ -103,11 +103,11 @@
             "/home/eduarda/.cache/coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar",
             "/home/eduarda/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar"
         ],
-        "out": "/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/project/.bloop/jogo-termo-em-scala-build",
-        "classesDir": "/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/project/.bloop/jogo-termo-em-scala-build/scala-2.12/sbt-1.0/classes",
+        "out": "/home/eduarda/Documents/GitHub/Jogo-Termo-em-Scala/project/.bloop/jogo-termo-em-scala-build",
+        "classesDir": "/home/eduarda/Documents/GitHub/Jogo-Termo-em-Scala/project/.bloop/jogo-termo-em-scala-build/scala-2.12/sbt-1.0/classes",
         "resources": [
-            "/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/project/src/main/resources",
-            "/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/project/target/scala-2.12/sbt-1.0/resource_managed/main"
+            "/home/eduarda/Documents/GitHub/Jogo-Termo-em-Scala/project/src/main/resources",
+            "/home/eduarda/Documents/GitHub/Jogo-Termo-em-Scala/project/target/scala-2.12/sbt-1.0/resource_managed/main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -212,9 +212,9 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/usr/lib/jvm/bellsoft-java17-amd64",
+                "home": "/usr/lib/jvm/java-17-openjdk-17.0.9.0.9-1.fc39.x86_64",
                 "options": [
-                    "-Duser.dir=/home/eduarda/Documentos/GitHub/Jogo-Termo-em-Scala/project"
+                    "-Duser.dir=/home/eduarda/Documents/GitHub/Jogo-Termo-em-Scala/project"
                 ]
             },
             "mainClass": [
