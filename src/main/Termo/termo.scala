@@ -301,7 +301,7 @@ object Termo {
         println(RED + "      \\_/  \\____\\\\_/\\_\\\\_/  \\_|\\____/\n\n" + RESET)
 
         println("Descubra as palavras certas. Depois de cada tentativa, as peças mostram o quão perto você está da solução. Por exemplo:\n")
-        println(GREEN + "T" + RESET + " " + YELLOW + "E" + RESET + " " + RED + "R" + " " + "M" + " "  + "O\n" + RESET)
+        println(GREEN + "T" + RESET + " " + YELLOW + "E" + RESET + " " + "R" + " " + "M" + " "  + "O\n" + RESET)
         println("A letra \"T\" está na posição correta. A letra \"E\" está na palavra, mas na posição errada. As letras \"R\", \"M\" e \"O\" não estão na palavra.\n")
         println("Para começar a jogar, escolha com quantas palavras deseja começar. Lembre-se, cada modalidade só pode ser jogada uma vez por dia!\n")
     }

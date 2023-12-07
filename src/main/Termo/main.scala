@@ -58,11 +58,11 @@ object main {
         val semAcentos = "aeiouaeiouaoc"
 
         // Substitui os caracteres acentuados pelos correspondentes sem acentos
-        val novaPalavra = palavra.map { c =>
+        val novaPalavra = palavra.map ( c => {
             val index = comAcentos.indexOf(c)
             if (index != -1) semAcentos.charAt(index)
             else c
-        }.mkString
+        }).mkString
 
         return novaPalavra
     }
