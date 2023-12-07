@@ -30,7 +30,7 @@ object Termo {
                 stringFormatada += YELLOW + caracter + " " + RESET
             }
             else{
-                stringFormatada += RED + caracter + " " + RESET
+                stringFormatada += caracter + " "
             }
 
         }
